@@ -5,3 +5,4 @@ It is created as part of a hands-on lab assignment to practice version control u
 
 ## License
 This project is licensed under the Apache 2.0 License.
+Edited from forked repository - bug-fix-typo branch.
